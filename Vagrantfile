@@ -3,7 +3,7 @@
 
 Vagrant.configure("2") do |config|
 
-  config.vm.hostname = "prompt_installer"
+  config.vm.hostname = "prompt-installer"
 
   config.vm.box = "RightImage_ubuntu_12.04"
   config.vm.box_url = "https://rightscale-vagrant.s3.amazonaws.com/virtualbox/ubuntu/12.04/RightImage_Ubuntu_12.04_x64_v13.5.0.1.box"
