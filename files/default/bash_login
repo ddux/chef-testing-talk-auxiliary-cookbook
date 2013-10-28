@@ -1,0 +1,1 @@
+PS1='$(ruby -e "print RUBY_VERSION") \W\$ '
