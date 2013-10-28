@@ -11,5 +11,5 @@ platforms:
 
 suites:
 - name: default
-  run_list: ["recipe[dotfile_installer]"]
+  run_list: ["recipe[awesome_prompt_installer]"]
   attributes: {}
